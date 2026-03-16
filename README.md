@@ -24,6 +24,10 @@ automation-assessment/
 │   ├── allimages.json
 │   ├── visible_images_only.json
 │   └── visible_texts.json
+│
+├── 4_system_architecture/
+│   ├── architecture_diagram.png
+│   └── README_task_4.md
 └── README.md
 ```
 
